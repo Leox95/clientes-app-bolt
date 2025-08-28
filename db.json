@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "id": "6de6",
+      "nome": "Gilberto",
+      "email": "leo@gmail.com",
+      "telefone": "11652332154",
+      "cpf": "61778037097",
+      "dataCriacao": "2025-08-27"
+    },
+    {
+      "id": "72b8",
+      "nome": "aslmms",
+      "email": "vito@vito.com",
+      "telefone": "45422222222",
+      "cpf": "41738709817",
+      "dataCriacao": "2025-08-27T18:12:57.023Z"
+    },
+    {
+      "nome": "hall jordan da silva",
+      "email": "hall@hall.com",
+      "telefone": "11985421422",
+      "cpf": "77711111111",
+      "dataCriacao": "2025-08-13T03:00:00.000Z",
+      "id": "d75e"
+    }
+  ]
+}
